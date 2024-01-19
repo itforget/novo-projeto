@@ -1,4 +1,4 @@
-export default class Usuario {
+export default class User {
     #nome
     #email
     #nascimento
@@ -37,4 +37,5 @@ export default class Usuario {
       return `${this.nome}, ${this.email}, ${this.nascimento}, ${this.role}, ${this.ativo}`;
     }
   }
+  
   

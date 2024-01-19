@@ -1,9 +1,9 @@
 {
-  "name": "novo-projeto",
+  "name": "alura-front",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
-  "type":"module",
+  "type": "module",
+  "main": "User.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
